@@ -1,5 +1,3 @@
-Notes for absolute beginners to Tealium.
-
 # *Total* Beginners Guide to Using Tealium
 
 ## Intro
