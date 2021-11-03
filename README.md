@@ -29,6 +29,18 @@ Tealium claims [eight major benefits](https://tealium.com/products/tealium-iq-ta
 
 After placing a single data tag and forwarding the data to Tealium, marketing folks can go into the GUI and forward that data flow into [hundreds(!) of places](https://tealium.com/integrations/).  Just some: LinkedIn Insights, Adobe App Measurement, Mailchimp, Twilio, AWS Redshift, Facebook Conversions, Hubspot, et al.
 
+## Competitors
+
+Wikipedia lists [six tag managers](https://en.wikipedia.org/wiki/Tag_management_system)
+
+    Adobe  
+    Ensighten  
+    Google (Google Tag Manager)  
+    Matomo (opensource)  
+    Signal  
+    Tealium  
+    Yahoo  
+
 ## Getting started links
 
 * [Web](https://docs.tealium.com/platforms/getting-started-web/)
@@ -48,5 +60,47 @@ https://community.tealiumiq.com/t5/Universal-Data-Hub/Introduction-to-AudienceSt
 https://community.tealiumiq.com/t5/Universal-Data-Hub/Using-Attributes/ta-p/11926  
 https://community.tealiumiq.com/t5/Universal-Data-Hub/Using-Enrichments/ta-p/11932  
 
+## The weird fake ecommerce store is here
+
+https://ecommerce.tealiumdemo.com/training
+
+## Left off in videos here:
+* 12%
+* https://education.tealium.com/learn/course/en-as-bsc-elrn/audiencestream-overview/audiencestream-overview?page=3
+
+## Next Action
+* Try signing in to that fake ecommerce dashboard they gave you access to. Does it have data? Can you do what the guy in the above video did?
+
+
+## Getting started with Google Analytics 4  
+ 
+From [Kayle Larkin](https://ahrefs.com/blog/how-to-use-google-analytics/).  Go to [analytics.google.com](http://analytics.google.com).  
+
+    Click Start measuring.
+    Enter an account name (This is for internal purposes. We recommend using your company name.)
+    Edit data sharing settings (optional).
+    Click Next.
+    Enter a property name(This is for internal use only and your website domain works well, especially if working with multiple websites under one company.)
+    Check the reporting time zone and currency (This should be accurate for the business’s location).
+    
+    I did not do this:
+    Click Show advanced options.
+    Toggle the option to ‘Create a University Analytics property’ on (This is considered best practice to keep GA4 enhanced measures enabled.)
+    Enter Website URL.
+    Click Next.
+
+    I did not do this:
+    Enter industry and business size information (optional).
+    Click Create.
+    Accept the Google Analytics Terms of Service Agreement (Be sure to familiarize yourself with this before agreeing, as there may be specific privacy rules and regulations for your location.)
+    Check web stream details (Ensure everything is correct, including things like HTTP vs. HTTPS and www vs. non-www. These may skew data accuracy.)
+
+## In GA4
+
+To get the mini dashboard modal, click top left tab "All accounts > evan-genest > pikl-us" That will get you a smaller dashboard featuring
+1. analytics accounts
+2. tag manager
+3. optimizer
+4. data studio
 
 
